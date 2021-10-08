@@ -7,8 +7,7 @@ group: prerequisite
 summary: Learn the necessary preparations before installing Milvus.
 ---
 # Before you Begin
-
-Before you install Milvus, check hardware and software requirements.
+Before proceeding to installation, you must check the eligibility of your hardware and software.
 
 {{tab}}
 
